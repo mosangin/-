@@ -28,8 +28,8 @@ header nav ul li a:hover{border-bottom: 3px solid #000;}
 #banner .text_box{position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(235,235,235,.1);}
 #banner .text{position: absolute; top: 30%; left: 0; right: 0; bottom: 0; text-align: center; height: 20% ;}
 #banner .text strong{font-size: 75px; line-height: 1.1; }
-#banner .text strong .color1{color: #fff; text-shadow: 0 1px #000;}
-#banner .text strong .color2{color: #7a89b3; text-shadow: 0 1px #000;}
+#banner .text strong .color1{color: lightgrey; text-shadow: 0 1px #000;}
+#banner .text strong .color2{color: #fff; text-shadow: 0 1px #000;}
 #banner .text p{font-size: 25px; text-align: center; margin-top: 35px; color: #fff; line-height: 1.4;  font-family: 'S-CoreDream-5Medium';}
 #banner .scroll{}
 #banner .scroll a{display: block; padding-top: 60px;}
